@@ -25,8 +25,8 @@
 ## 📁 Структура проекта
 
 pfr_kpi/
-├── .idea/                    # настройки IDE
-├── backend/                  # Backend (FastAPI)
+├── .idea/
+├── backend/
 │   ├── app/
 │   │   ├── core/
 │   │   ├── models/
@@ -37,8 +37,7 @@ pfr_kpi/
 │   ├── requirements.txt
 │   ├── alembic/
 │   └── .env.example
-│
-├── frontend/                 # Frontend (React)
+├── frontend/
 │   ├── src/
 │   │   ├── components/
 │   │   ├── pages/
@@ -47,7 +46,6 @@ pfr_kpi/
 │   │   └── App.tsx
 │   ├── package.json
 │   └── vite.config.ts
-│
 ├── .gitignore
 └── README.md
 

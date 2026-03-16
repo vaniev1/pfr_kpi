@@ -25,6 +25,7 @@
 ### 1. Клонирование
 
 git clone https://github.com/vaniev1/pfr_kpi.git
+
 cd pfr_kpi
 
 

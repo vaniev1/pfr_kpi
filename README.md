@@ -20,37 +20,6 @@
 - Адаптивный дизайн
 
 
----
-
-## 📁 Структура проекта
-
-pfr_kpi/
-├── .idea/
-├── backend/
-│   ├── app/
-│   │   ├── core/
-│   │   ├── models/
-│   │   ├── schemas/
-│   │   ├── crud/
-│   │   ├── routers/
-│   │   └── main.py
-│   ├── requirements.txt
-│   ├── alembic/
-│   └── .env.example
-├── frontend/
-│   ├── src/
-│   │   ├── components/
-│   │   ├── pages/
-│   │   ├── store/
-│   │   ├── api/
-│   │   └── App.tsx
-│   ├── package.json
-│   └── vite.config.ts
-├── .gitignore
-└── README.md
-
-
-
 ## 🚀 Быстрый старт
 
 ### 1. Клонирование
